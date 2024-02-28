@@ -1,0 +1,8 @@
+1-Pegar o doce;
+2-Se doce tem embalagem então
+	Tirar embalagem do doce;
+  Fim Se
+3-Colocar o doce na boca
+4-Se bala tem embalagem então
+	Jogar embalagem no lixo;
+  Fim Se
